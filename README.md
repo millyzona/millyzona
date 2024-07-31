@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+https://media1.tenor.com/m/yDxgngEEeY0AAAAC/barbie-pink.gif
+<!--estou estudando na (alura)
 **millyzona/millyzona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
